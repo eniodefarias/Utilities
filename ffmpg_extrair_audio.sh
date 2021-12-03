@@ -40,7 +40,8 @@ while [ $counter -le $qtde_lista_arquivos ]
         echo ""
         echo ""
         echo ""
-
+        notify-send "$counter de $qtde_lista_arquivos: TERMINOU arquivo  $nome_arq.mp3"
 
         counter=$((counter + 1))
     done
+notify-send "TERMINOU todos os arquivos"

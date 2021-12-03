@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../fontes/comercial/001_Influencer_captacao_de_cliques/.idea/001_Influencer_captacao_de_cliques.iml" filepath="$PROJECT_DIR$/../fontes/comercial/001_Influencer_captacao_de_cliques/.idea/001_Influencer_captacao_de_cliques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../ROBOS2/.idea/ROBOS2.iml" filepath="$PROJECT_DIR$/../../../ROBOS2/.idea/ROBOS2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Utilities.iml" filepath="$PROJECT_DIR$/.idea/Utilities.iml" />
     </modules>
   </component>

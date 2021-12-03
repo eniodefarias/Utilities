@@ -27,6 +27,25 @@
         - considere o arquivo de entrada como video.avi, então o arquivo de saída será audio_0001_video.avi.mp3 
 
 
+---
+#### diferenca_entre_datas.sh
+- como usar:
+  -      -h, --help    -> exibe esta ajuda
 
+  -      -i, --inicial  -> data inicial, ex.:
+                          -i 20/10/1986
+                          --inicial 20/10/1986
+
+  -          -f, --final    -> data final,
+                                  obs.: não é obrigatório. caso não seja informado irá usar a data atual, ex.:
+                              -f 20/10/2020
+                              --final 03/12/2021
+
+  -           exemplo de uso:
+              ./diferenca_entre_datas.sh -i 20/10/1986 --final 03/12/2021
+              ou
+              ./diferenca_entre_datas.sh -i 20/10/1986
+              ou
+              ./diferenca_entre_datas.sh -h
 
 ## python:
