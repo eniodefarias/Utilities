@@ -18,6 +18,7 @@
 
 ---
 
+
 #### ffmpg_extrair_audio.sh
   - como usar:
     - _./ffmpg_extrair_audio.sh /caminho/completo/arquivo_de_video.mp4_
@@ -25,6 +26,7 @@
       - _./ffmpg_extrair_audio.sh $(find /home/user/Downloads -name "*.mp4" | sort)_
         - assim vai listar todos os arquivos mp4 da pasta com o caminho completo dos arquivos e vai ordená-los alfabeticamente
         - considere o arquivo de entrada como video.avi, então o arquivo de saída será audio_0001_video.avi.mp3 
+
 
 
 ---
